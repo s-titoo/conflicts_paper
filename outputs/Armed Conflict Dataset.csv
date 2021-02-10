@@ -1,0 +1,515 @@
+,conflict_id,conflict_episode_id,zero_episode,official_start,start_date3,start_prec3,high_intensity_start,type_start_international,location,side_a,side_b,territory_name,region,version
+0,11342,11342_20121115,0,1,2012-11-15,1.0,0.0,0.0,India,Government of India,GNLA,Garoland,3,20.1
+1,11342,11342_20140701,0,1,2014-07-01,1.0,0.0,0.0,India,Government of India,GNLA,Garoland,3,20.1
+2,11343,11343_19670605,0,1,1967-06-05,1.0,1.0,1.0,"Egypt, Israel",Government of Egypt,Government of Israel,Suez/Sinai,2,20.1
+3,11343,11343_19690306,0,1,1969-03-06,1.0,0.0,1.0,"Egypt, Israel",Government of Egypt,Government of Israel,Suez/Sinai,2,20.1
+4,11343,11343_19731006,0,1,1973-10-06,1.0,1.0,1.0,"Egypt, Israel",Government of Egypt,Government of Israel,Suez/Sinai,2,20.1
+5,11344,11344_20110519,0,1,2011-05-19,1.0,0.0,0.0,Sudan,Government of Sudan,Republic of South Sudan,Abyei,4,20.1
+6,11345,11345_20110820,0,1,2011-08-20,2.0,0.0,0.0,South Sudan,Government of South Sudan,"SSDM/A, SSLM/A",,4,20.1
+7,11346,11346_20110228,0,1,2011-02-28,1.0,1.0,0.0,Libya,Government of Libya,"Forces of Muammar Gaddafi, NTC",,4,20.1
+8,11346,11346_20131129,0,1,2013-11-29,1.0,0.0,0.0,Libya,Government of Libya,ASL,,4,20.1
+9,11346,11346_20170518,0,1,2017-05-18,1.0,0.0,0.0,Libya,Government of Libya,"Forces of Khalifa al-Ghawil, Forces of the House of Representatives, PFLL",,4,20.1
+10,11346,11346_20190221,0,1,2019-02-21,2.0,1.0,0.0,Libya,Government of Libya,Forces of the House of Representatives,,4,20.1
+11,11347,11347_20090610,0,1,2009-06-10,1.0,0.0,0.0,Mali,Government of Mali,AQIM,,4,20.1
+12,11347,11347_20120124,0,1,2012-01-24,1.0,0.0,0.0,Mali,Government of Mali,"Ansar Dine, Military faction (Red Berets)",,4,20.1
+13,11348,11348_20120327,0,1,2012-03-27,1.0,0.0,1.0,"South Sudan, Sudan",Government of South Sudan,Government of Sudan,Common border,4,20.1
+14,11349,11349_20080810,0,1,2008-08-10,1.0,0.0,0.0,China,Government of China,ETIM,East Turkestan,3,20.1
+15,11350,11350_20050208,0,1,2005-02-08,1.0,0.0,0.0,Bangladesh,Government of Bangladesh,"PBCP, PBCP-J",,3,20.1
+16,11447,11447_19911010,0,1,1991-10-10,2.0,0.0,0.0,Ethiopia,Government of Ethiopia,IGLF,Hararghe,4,20.1
+17,11487,11487_20130301,0,1,2013-03-01,1.0,0.0,0.0,Malaysia,Government of Malaysia,Sultanate of Sulu,Sabah,3,20.1
+18,13042,13042_20120907,0,1,2012-09-07,1.0,0.0,0.0,Syria,Government of Syria,PYD,Rojava Kurdistan,2,20.1
+19,13219,13219_20140218,0,1,2014-02-18,1.0,0.0,0.0,Ukraine,Government of Ukraine,Maidan,,1,20.1
+20,13246,13246_20140502,0,1,2014-05-02,1.0,1.0,1.0,Ukraine,Government of Ukraine,DPR,Donetsk,1,20.1
+21,13247,13247_20140614,0,1,2014-06-14,1.0,0.0,1.0,Ukraine,Government of Ukraine,LPR,Lugansk,1,20.1
+22,13306,13306_20140917,0,1,2014-09-17,1.0,1.0,1.0,Ukraine,Government of Ukraine,United Armed Forces of Novorossiya,Novorossiya,1,20.1
+23,13588,13588_20150801,0,1,2015-08-01,2.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),IS,Islamic State,1,20.1
+24,13604,13604_20130727,0,1,2013-07-27,2.0,1.0,0.0,Syria,Government of Syria,IS,Islamic State,2,20.1
+25,13611,13611_20150627,0,1,2015-06-27,1.0,0.0,0.0,Mali,Government of Mali,FLM,Macina Empire,4,20.1
+26,13637,13637_20150303,0,1,2015-03-03,1.0,0.0,1.0,Afghanistan,Government of Afghanistan,IS,Islamic State,3,20.1
+27,13638,13638_20150811,0,1,2015-08-11,1.0,0.0,1.0,Cameroon,Government of Cameroon,IS,Islamic State,4,20.1
+28,13638,13638_20190427,0,1,2019-04-27,1.0,0.0,1.0,Cameroon,Government of Cameroon,IS,Islamic State,4,20.1
+29,13639,13639_20150326,0,1,2015-03-26,1.0,0.0,1.0,Niger,Government of Niger,IS,Islamic State,4,20.1
+30,13640,13640_20150527,0,1,2015-05-27,1.0,0.0,0.0,Chad,Government of Chad,IS,Islamic State,4,20.1
+31,13640,13640_20170505,0,1,2017-05-05,1.0,0.0,0.0,Chad,Government of Chad,IS,Islamic State,4,20.1
+32,13641,13641_20150315,0,1,2015-03-15,1.0,1.0,1.0,Nigeria,Government of Nigeria,IS,Islamic State,4,20.1
+33,13645,13645_20150320,0,1,2015-03-20,1.0,0.0,0.0,Yemen (North Yemen),Government of Yemen (North Yemen),IS,Islamic State,2,20.1
+34,13645,13645_20170518,0,1,2017-05-18,1.0,0.0,0.0,Yemen (North Yemen),Government of Yemen (North Yemen),IS,Islamic State,2,20.1
+35,13646,13646_20150713,0,1,2015-07-13,1.0,0.0,0.0,Kenya,Government of Kenya,Al-Shabaab,Northeastern Province and Coast,4,20.1
+36,13648,13648_20150129,0,1,2015-01-29,1.0,0.0,0.0,Egypt,Government of Egypt,IS,Islamic State,2,20.1
+37,13653,13653_20150604,0,1,2015-06-04,1.0,0.0,0.0,India,Government of India,UNLFW,Western South East Asia,3,20.1
+38,13674,13674_20160829,0,1,2016-08-29,1.0,0.0,0.0,Bangladesh,Government of Bangladesh,IS,Islamic State,3,20.1
+39,13675,13675_20140803,0,1,2014-08-03,2.0,0.0,0.0,Lebanon,Government of Lebanon,IS,Islamic State,2,20.1
+40,13675,13675_20170819,0,1,2017-08-19,1.0,0.0,0.0,Lebanon,Government of Lebanon,IS,Islamic State,2,20.1
+41,13692,13692_20011007,0,1,2001-10-07,1.0,1.0,1.0,"Afghanistan, United Kingdom, United States of America",Government of Afghanistan,"Government of United Kingdom, Government of United States of America",,"1, 3, 5",20.1
+42,13694,13694_20150314,0,1,2015-03-14,1.0,0.0,0.0,Libya,Government of Libya,IS,Islamic State,4,20.1
+43,13721,13721_20150520,0,1,2015-05-20,1.0,0.0,0.0,Algeria,Government of Algeria,IS,Islamic State,4,20.1
+44,13809,13809_20160423,0,1,2016-04-23,1.0,0.0,0.0,Syria,Government of Syria,SDF,Rojava Kurdistan,2,20.1
+45,13809,13809_20180908,0,1,2018-09-08,1.0,0.0,0.0,Syria,Government of Syria,SDF,Rojava Kurdistan,2,20.1
+46,13840,13840_20190819,0,1,2019-08-19,1.0,0.0,1.0,Burkina Faso,Government of Burkina Faso,IS,Islamic State,4,20.1
+47,13886,13886_20161218,0,1,2016-12-18,1.0,0.0,0.0,Jordan,Government of Jordan,IS,Islamic State,2,20.1
+48,13902,13902_20151114,0,1,2015-11-14,1.0,0.0,0.0,Turkey,Government of Turkey,IS,Islamic State,2,20.1
+49,13936,13936_20161024,0,1,2016-10-24,1.0,0.0,0.0,Pakistan,Government of Pakistan,IS,Islamic State,3,20.1
+50,14074,14074_20180515,0,1,2018-05-15,1.0,0.0,0.0,Somalia,Government of Somalia,Republic of Somaliland,Somaliland,4,20.1
+51,14113,14113_20170709,0,1,2017-07-09,1.0,0.0,1.0,Mali,Government of Mali,IS,Islamic State,4,20.1
+52,14129,14129_20171208,0,1,2017-12-08,2.0,0.0,0.0,Cameroon,Government of Cameroon,Ambazonia insurgents,Ambazonia,4,20.1
+53,14197,14197_20190604,0,1,2019-06-04,1.0,0.0,1.0,Somalia,Government of Somalia,IS,Islamic State,4,20.1
+54,14268,14268_20170611,0,1,2017-06-11,1.0,0.0,0.0,Iran,Government of Iran,IS,Islamic State,2,20.1
+55,14275,14275_20160601,0,1,2016-06-01,1.0,0.0,0.0,Philippines,Government of Philippines,IS,Islamic State,3,20.1
+56,14333,14333_20160307,0,1,2016-03-07,1.0,0.0,0.0,Tunisia,Government of Tunisia,IS,Islamic State,4,20.1
+57,14609,14609_20180429,0,1,2018-04-29,1.0,0.0,1.0,"Iran, Israel",Government of Iran,Government of Israel,,2,20.1
+58,14845,14845_20191116,0,1,2019-11-16,1.0,0.0,0.0,Mozambique,Government of Mozambique,IS,Islamic State,4,20.1
+59,14935,14935_20190622,0,1,2019-06-22,1.0,0.0,0.0,Ethiopia,Government of Ethiopia,Military faction (forces of Asaminew Tsige),Amhara,4,20.1
+60,200,200_19460718,0,1,1946-07-18,1.0,1.0,0.0,Bolivia,Government of Bolivia,Popular Revolutionary Movement,,5,20.1
+61,200,200_19520409,0,1,1952-04-09,1.0,0.0,0.0,Bolivia,Government of Bolivia,MNR,,5,20.1
+62,205,205_19900710,0,1,1990-07-10,2.0,0.0,0.0,Iran,Government of Iran,KDPI,Kurdistan,2,20.1
+63,205,205_19930912,0,1,1993-09-12,2.0,0.0,0.0,Iran,Government of Iran,KDPI,Kurdistan,2,20.1
+64,205,205_19960728,0,1,1996-07-28,2.0,0.0,0.0,Iran,Government of Iran,KDPI,Kurdistan,2,20.1
+65,205,205_20160907,0,1,2016-09-07,2.0,0.0,0.0,Iran,Government of Iran,KDPI,Kurdistan,2,20.1
+66,205,205_20180811,0,1,2018-08-11,1.0,0.0,0.0,Iran,Government of Iran,KDPI,Kurdistan,2,20.1
+67,209,209_19971123,0,1,1997-11-23,1.0,0.0,0.0,Philippines,Government of Philippines,CPP,,3,20.1
+68,209,209_19990606,0,1,1999-06-06,1.0,0.0,0.0,Philippines,Government of Philippines,CPP,,3,20.1
+69,214,214_19460507,0,1,1946-05-07,1.0,0.0,1.0,"France, Thailand",Government of France,Government of Thailand,Northern Cambodia,"1, 3",20.1
+70,215,215_19461022,0,1,1946-10-22,1.0,0.0,1.0,"Albania, United Kingdom",Government of Albania,Government of United Kingdom,Korfu Channel,1,20.1
+71,216,216_19461120,0,1,1946-11-20,1.0,1.0,1.0,Vietnam (North Vietnam),Government of France,Viet minh,Vietnam,3,20.1
+72,217,217_19470228,0,1,1947-02-28,1.0,1.0,0.0,China,Government of China,Taiwanese insurgents,Taiwan,3,20.1
+73,218,218_19711203,0,1,1971-12-03,1.0,1.0,1.0,"India, Pakistan",Government of India,Government of Pakistan,Kashmir,3,20.1
+74,218,218_20141006,0,1,2014-10-06,2.0,0.0,1.0,"India, Pakistan",Government of India,Government of Pakistan,Kashmir,3,20.1
+75,219,219_19470329,0,1,1947-03-29,1.0,1.0,1.0,Madagascar (Malagasy),Government of France,MDRM,Malagasy,4,20.1
+76,220,220_19540505,0,1,1954-05-05,1.0,0.0,0.0,Paraguay,Government of Paraguay,Military faction (forces of Alfredo Stroessner),,5,20.1
+77,220,220_19890203,0,1,1989-02-03,1.0,0.0,0.0,Paraguay,Government of Paraguay,Military faction (forces of Andres Rodriguez),,5,20.1
+78,221,221_19490115,0,1,1949-01-15,1.0,1.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),KNUP,Karen,3,20.1
+79,221,221_20000303,0,1,2000-03-03,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),"God's Army, KNU",Karen,3,20.1
+80,221,221_20130429,0,1,2013-04-29,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),DKBA 5,Karen,3,20.1
+81,222,222_20131115,0,1,2013-11-15,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),PSLF,,3,20.1
+82,222,222_20170429,0,1,2017-04-29,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),PSLF,,3,20.1
+83,223,223_20161011,0,1,2016-10-11,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),ARSA,Arakan,3,20.1
+84,225,225_19480303,0,1,1948-03-03,2.0,1.0,0.0,Costa Rica,Government of Costa Rica,National Liberation Army,,5,20.1
+85,226,226_19480913,0,1,1948-09-13,2.0,1.0,1.0,"Hyderabad, India",Government of Hyderabad,Government of India,Hyderabad,3,20.1
+86,227,227_19480918,0,1,1948-09-18,2.0,1.0,0.0,India,Government of India,CPI,,3,20.1
+87,227,227_19910716,0,1,1991-07-16,1.0,0.0,0.0,India,Government of India,PWG,,3,20.1
+88,227,227_19960403,0,1,1996-04-03,1.0,0.0,0.0,India,Government of India,PWG,,3,20.1
+89,228,228_19480415,0,1,1948-04-15,1.0,1.0,1.0,"Egypt, Iraq, Israel, Jordan, Lebanon, Syria","Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,Palestine,2,20.1
+90,229,229_19480619,0,1,1948-06-19,1.0,0.0,1.0,Malaysia,Government of United Kingdom,CPM,Malaya,3,20.1
+91,230,230_20091217,0,1,2009-12-17,1.0,0.0,1.0,Yemen (North Yemen),Government of Yemen (North Yemen),AQAP,,2,20.1
+92,231,231_20110627,0,1,2011-06-27,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),KIO,Kachin,3,20.1
+93,233,233_19490718,0,1,1949-07-18,1.0,0.0,0.0,Guatemala,Government of Guatemala,Military faction (Guatemala),,5,20.1
+94,233,233_19540618,0,1,1954-06-18,2.0,0.0,0.0,Guatemala,Government of Guatemala,Forces of Carlos Castillo Armas,,5,20.1
+95,234,234_20001001,0,1,2000-10-01,1.0,0.0,0.0,Israel,Government of Israel,"Fatah, PNA",Palestine,2,20.1
+96,234,234_20140708,0,1,2014-07-08,1.0,1.0,0.0,Israel,Government of Israel,"Hamas, PIJ",Palestine,2,20.1
+97,234,234_20180527,0,1,2018-05-27,1.0,0.0,0.0,Israel,Government of Israel,Hamas,Palestine,2,20.1
+98,236,236_19501007,0,1,1950-10-07,1.0,0.0,0.0,China,Government of China,Tibet,Tibet,3,20.1
+99,236,236_19590310,0,1,1959-03-10,1.0,1.0,0.0,China,Government of China,Tibet,Tibet,3,20.1
+100,237,237_19500805,0,1,1950-08-05,1.0,1.0,0.0,Indonesia,Government of Indonesia,Republic of South Moluccas,South Moluccas,3,20.1
+101,238,238_19501030,0,1,1950-10-30,1.0,0.0,1.0,United States of America,Government of United States of America,Puerto Rican Nationalist Party,Puerto Rico,5,20.1
+102,239,239_19511018,0,1,1951-10-18,1.0,0.0,1.0,"Egypt, United Kingdom",Government of Egypt,Government of United Kingdom,Suez,"1, 2",20.1
+103,240,240_19510630,0,1,1951-06-30,1.0,0.0,0.0,Thailand,Government of Thailand,Military faction (navy),,3,20.1
+104,241,241_19521022,0,1,1952-10-22,2.0,0.0,1.0,Kenya,Government of United Kingdom,Mau Mau,Kenya,4,20.1
+105,242,242_19530726,0,1,1953-07-26,1.0,0.0,0.0,Cuba,Government of Cuba,M-26-7,,5,20.1
+106,242,242_19561205,0,1,1956-12-05,1.0,0.0,0.0,Cuba,Government of Cuba,M-26-7,,5,20.1
+107,242,242_19610417,0,1,1961-04-17,2.0,0.0,1.0,Cuba,Government of Cuba,Cuban Revolutionary Council,,5,20.1
+108,243,243_19580417,0,1,1958-04-17,2.0,1.0,0.0,Indonesia,Government of Indonesia,"Darul Islam, Permesta Movement, PRRI",,3,20.1
+109,244,244_19531107,0,1,1953-11-07,1.0,0.0,1.0,Morocco,Government of France,Istiqlal,Morocco,4,20.1
+110,246,246_19541129,0,1,1954-11-29,2.0,0.0,1.0,Algeria,Government of France,FLN,Algeria,4,20.1
+111,247,247_19550616,0,1,1955-06-16,1.0,0.0,0.0,Argentina,Government of Argentina,"Military faction (forces of Eduardo A. Lonardi Doucet), Military faction (forces of Samuel Toranzo Calderón)",,5,20.1
+112,247,247_19630402,0,1,1963-04-02,1.0,0.0,0.0,Argentina,Government of Argentina,Military faction (colorados),,5,20.1
+113,247,247_19740811,0,1,1974-08-11,2.0,0.0,0.0,Argentina,Government of Argentina,ERP,,5,20.1
+114,248,248_19550602,0,1,1955-06-02,1.0,0.0,1.0,Cyprus,Government of United Kingdom,EOKA,Cyprus,1,20.1
+115,250,250_19561023,0,1,1956-10-23,1.0,1.0,1.0,"Hungary, Russia (Soviet Union)",Government of Hungary,Government of Russia (Soviet Union),,1,20.1
+116,251,251_19920805,0,1,1992-08-05,1.0,0.0,0.0,India,Government of India,NSCN-IM,Nagaland,3,20.1
+117,251,251_20000913,0,1,2000-09-13,1.0,0.0,0.0,India,Government of India,NSCN-IM,Nagaland,3,20.1
+118,252,252_19561031,0,1,1956-10-31,1.0,1.0,1.0,"Egypt, France, Israel, United Kingdom",Government of Egypt,"Government of France, Government of Israel, Government of United Kingdom",Suez,"1, 2",20.1
+119,253,253_19920922,0,1,1992-09-22,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),KNPP,Karenni,3,20.1
+120,253,253_19960306,0,1,1996-03-06,2.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),KNPP,Karenni,3,20.1
+121,253,253_20050116,0,1,2005-01-16,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),KNPP,Karenni,3,20.1
+122,255,255_19570501,0,1,1957-05-01,1.0,0.0,1.0,"Honduras, Nicaragua",Government of Honduras,Government of Nicaragua,Common Border,5,20.1
+123,256,256_19570112,0,1,1957-01-12,2.0,0.0,1.0,"Mauritania, Morocco",Government of France,NLA,Morocco/Mauritania,4,20.1
+124,257,257_19571123,0,1,1957-11-23,2.0,0.0,1.0,"Mauritania, Morocco",Government of Spain,NLA,Morocco/Spanish territories,4,20.1
+125,259,259_19580714,0,1,1958-07-14,1.0,0.0,0.0,Iraq,Government of Iraq,Military faction (free Officers Movement),,2,20.1
+126,259,259_19630208,0,1,1963-02-08,1.0,1.0,0.0,Iraq,Government of Iraq,"Military faction (forces of Abd as-Salam Arif), NCRC",,2,20.1
+127,259,259_19820801,0,1,1982-08-01,1.0,0.0,0.0,Iraq,Government of Iraq,SCIRI,,2,20.1
+128,259,259_19910424,0,1,1991-04-24,1.0,0.0,0.0,Iraq,Government of Iraq,SCIRI,,2,20.1
+129,259,259_20040118,0,1,2004-01-18,1.0,1.0,1.0,Iraq,Government of Iraq,"al-Mahdi Army, Ansar al-Islam, IS",,2,20.1
+130,260,260_19580515,0,1,1958-05-15,2.0,1.0,0.0,Lebanon,Government of Lebanon,Independent Nasserite Movement,,2,20.1
+131,260,260_19750909,0,1,1975-09-09,2.0,0.0,0.0,Lebanon,Government of Lebanon,NSF,,2,20.1
+132,260,260_19820901,0,1,1982-09-01,2.0,0.0,0.0,Lebanon,Government of Lebanon,NSF,,2,20.1
+133,260,260_19890314,0,1,1989-03-14,1.0,0.0,1.0,Lebanon,Government of Lebanon,"Forces of Michel Aoun, Lebanese Forces",,2,20.1
+134,261,261_19740115,0,1,1974-01-15,2.0,0.0,0.0,Malaysia,Government of Malaysia,CPM,,3,20.1
+135,262,262_19591112,0,1,1959-11-12,1.0,1.0,0.0,Laos,Government of Laos,Pathet Lao,,3,20.1
+136,262,262_19890825,0,1,1989-08-25,1.0,0.0,0.0,Laos,Government of Laos,LRM,,3,20.1
+137,263,263_19610204,0,1,1961-02-04,1.0,1.0,1.0,Angola,Government of Portugal,"FNLA, MPLA",Angola,4,20.1
+138,264,264_19591122,0,1,1959-11-22,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),NSH,Shan,3,20.1
+139,264,264_20051227,0,1,2005-12-27,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),RCSS,Shan,3,20.1
+140,264,264_20130222,0,1,2013-02-22,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),"RCSS, SSPP",Shan,3,20.1
+141,264,264_20151018,0,1,2015-10-18,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),SSPP,Shan,3,20.1
+142,265,265_20130318,0,1,2013-03-18,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),Kata Katanga,Katanga,4,20.1
+143,266,266_19600831,0,1,1960-08-31,2.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),Independent Mining State of South Kasai,South Kasai,4,20.1
+144,267,267_19601217,0,1,1960-12-17,2.0,0.0,0.0,Ethiopia,Government of Ethiopia,Military faction (forces of Mengistu Neway),,4,20.1
+145,267,267_19760602,0,1,1976-06-02,2.0,1.0,0.0,Ethiopia,Government of Ethiopia,"EPRP, TPLF",,4,20.1
+146,268,268_19640210,0,1,1964-02-10,2.0,0.0,1.0,"Ethiopia, Somalia",Government of Ethiopia,Government of Somalia,Ogaden,4,20.1
+147,268,268_19770713,0,1,1977-07-13,1.0,1.0,1.0,"Ethiopia, Somalia",Government of Ethiopia,Government of Somalia,Ogaden,4,20.1
+148,269,269_19960823,0,1,1996-08-23,1.0,0.0,0.0,Nepal,Government of Nepal,CPN-M,,3,20.1
+149,270,270_19610422,0,1,1961-04-22,1.0,1.0,0.0,France,Government of France,OAS,,1,20.1
+150,271,271_19950314,0,1,1995-03-14,1.0,0.0,0.0,Iraq,Government of Iraq,PUK,Kurdistan,2,20.1
+151,272,272_19610720,0,1,1961-07-20,1.0,1.0,1.0,"France, Tunisia",Government of France,Government of Tunisia,Bizerte,"1, 4",20.1
+152,273,273_19621208,0,1,1962-12-08,1.0,0.0,1.0,Brunei,Government of United Kingdom,North Kalimantan Liberation Army,North Borneo,3,20.1
+153,275,275_19640315,0,1,1964-03-15,1.0,0.0,0.0,Ethiopia,Government of Ethiopia,ELF,Eritrea,4,20.1
+154,276,276_19620115,0,1,1962-01-15,1.0,0.0,1.0,"Indonesia, Netherlands",Government of Indonesia,Government of Netherlands,West New Guinea,"1, 3",20.1
+155,277,277_19620603,0,1,1962-06-03,2.0,0.0,0.0,Venezuela,Government of Venezuela,Military faction (navy),,5,20.1
+156,277,277_19920204,0,1,1992-02-04,1.0,0.0,0.0,Venezuela,Government of Venezuela,Military faction (forces of Hugo Chávez),,5,20.1
+157,278,278_19631008,0,1,1963-10-08,1.0,0.0,1.0,"Algeria, Morocco",Government of Algeria,Government of Morocco,Common Border,4,20.1
+158,283,283_19640131,0,1,1964-01-31,2.0,1.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),CNL,,4,20.1
+159,283,283_19670705,0,1,1967-07-05,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),Military Faction (Forces of Jean Schramme),,4,20.1
+160,283,283_19961019,0,1,1996-10-19,1.0,1.0,1.0,DR Congo (Zaire),Government of DR Congo (Zaire),AFDL,,4,20.1
+161,283,283_20051101,0,1,2005-11-01,2.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),Baraka group,,4,20.1
+162,283,283_20111007,0,1,2011-10-07,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),CNPSC,,4,20.1
+163,283,283_20160808,0,1,2016-08-08,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),Kamuina Nsapu,,4,20.1
+164,284,284_19640218,0,1,1964-02-18,1.0,0.0,1.0,Gabon,Government of Gabon,Military faction (forces loyal to Léon M'Ba),,4,20.1
+165,285,285_19641119,0,1,1964-11-19,1.0,0.0,1.0,Mozambique,Government of Portugal,Frelimo,Mozambique,4,20.1
+166,286,286_19641125,0,1,1964-11-25,1.0,0.0,1.0,South Yemen,Government of United Kingdom,FLOSY,Aden/South Yemen,2,20.1
+167,287,287_19651018,0,1,1965-10-18,1.0,0.0,0.0,Burundi,Government of Burundi,Military faction (forces loyal to Gervais Nyangoma),,4,20.1
+168,287,287_19911127,0,1,1991-11-27,2.0,0.0,0.0,Burundi,Government of Burundi,Palipehutu,,4,20.1
+169,287,287_20080301,0,1,2008-03-01,2.0,0.0,0.0,Burundi,Government of Burundi,Palipehutu-FNL,,4,20.1
+170,287,287_20141230,0,1,2014-12-30,1.0,0.0,0.0,Burundi,Government of Burundi,RED-TABARA,,4,20.1
+171,287,287_20190120,0,1,2019-01-20,1.0,0.0,1.0,Burundi,Government of Burundi,RED-TABARA,,4,20.1
+172,288,288_19760218,0,1,1976-02-18,1.0,0.0,0.0,Chad,Government of Chad,FAN,,4,20.1
+173,288,288_19890303,0,1,1989-03-03,2.0,0.0,0.0,Chad,Government of Chad,"Islamic Legion, MOSANAT, Revolutionary Forces of 1 April",,4,20.1
+174,288,288_19971030,0,1,1997-10-30,1.0,0.0,0.0,Chad,Government of Chad,"FARF, MDD",,4,20.1
+175,288,288_20051218,0,1,2005-12-18,1.0,0.0,0.0,Chad,Government of Chad,FUCD,,4,20.1
+176,288,288_20180811,0,1,2018-08-11,1.0,0.0,0.0,Chad,Government of Chad,CCMSR,,4,20.1
+177,289,289_20180220,0,1,2018-02-20,1.0,0.0,0.0,Colombia,Government of Colombia,"ELN, FARC dissidents",,5,20.1
+178,290,290_19650424,0,1,1965-04-24,1.0,0.0,0.0,Dominican Republic,Government of Dominican Republic,Military faction (constitutionalists),,5,20.1
+179,291,291_19650728,0,1,1965-07-28,1.0,0.0,0.0,Indonesia,Government of Indonesia,OPM,West Papua,3,20.1
+180,291,291_20181202,0,1,2018-12-02,2.0,0.0,0.0,Indonesia,Government of Indonesia,OPM,West Papua,3,20.1
+181,292,292_19650803,0,1,1965-08-03,2.0,0.0,0.0,Peru,Government of Peru,"ELN, MIR",,5,20.1
+182,292,292_19820822,0,1,1982-08-22,2.0,0.0,0.0,Peru,Government of Peru,Sendero Luminoso,,5,20.1
+183,292,292_20071114,0,1,2007-11-14,1.0,0.0,0.0,Peru,Government of Peru,Sendero Luminoso,,5,20.1
+184,294,294_20110428,0,1,2011-04-28,2.0,0.0,1.0,"Cambodia (Kampuchea), Thailand",Government of Cambodia (Kampuchea),Government of Thailand,Common Border,3,20.1
+185,295,295_19660224,0,1,1966-02-24,1.0,0.0,0.0,Ghana,Government of Ghana,NLC,,4,20.1
+186,295,295_19811231,0,1,1981-12-31,1.0,0.0,0.0,Ghana,Government of Ghana,Military faction (forces of Jerry John Rawlings),,4,20.1
+187,295,295_19830619,0,1,1983-06-19,1.0,0.0,0.0,Ghana,Government of Ghana,Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo),,4,20.1
+188,296,296_19660901,0,1,1966-09-01,2.0,0.0,0.0,India,Government of India,MNF,Mizoram,3,20.1
+189,297,297_19660115,0,1,1966-01-15,1.0,0.0,0.0,Nigeria,Government of Nigeria,Military faction (forces of Patrick Nzeogwu),,4,20.1
+190,297,297_20090726,0,1,2009-07-26,1.0,0.0,0.0,Nigeria,Government of Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,,4,20.1
+191,297,297_20110301,0,1,2011-03-01,1.0,0.0,0.0,Nigeria,Government of Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,,4,20.1
+192,299,299_19660223,0,1,1966-02-23,1.0,0.0,0.0,Syria,Government of Syria,Military faction (forces loyal to Nureddin Atassi and Youssef Zeayen),,2,20.1
+193,299,299_19790616,0,1,1979-06-16,1.0,0.0,0.0,Syria,Government of Syria,Muslim Brotherhood,,2,20.1
+194,299,299_20110904,0,1,2011-09-04,1.0,1.0,0.0,Syria,Government of Syria,Syrian insurgents,,2,20.1
+195,300,300_19781230,0,1,1978-12-30,2.0,1.0,1.0,Cambodia (Kampuchea),Government of Cambodia (Kampuchea),KNUFNS,,3,20.1
+196,301,301_19670605,0,1,1967-06-05,1.0,1.0,1.0,"Israel, Jordan",Government of Israel,Government of Jordan,West Bank,2,20.1
+197,302,302_19670605,0,1,1967-06-05,1.0,1.0,1.0,"Israel, Syria",Government of Israel,Government of Syria,Golan Heights,2,20.1
+198,302,302_19731006,0,1,1973-10-06,1.0,1.0,1.0,"Israel, Syria",Government of Israel,Government of Syria,Golan Heights,2,20.1
+199,303,303_19670706,0,1,1967-07-06,2.0,1.0,0.0,Nigeria,Government of Nigeria,Republic of Biafra,Biafra,4,20.1
+200,305,305_19690302,0,1,1969-03-02,1.0,0.0,1.0,"China, Russia (Soviet Union)",Government of China,Government of Russia (Soviet Union),Ussuri river,"1, 3",20.1
+201,306,306_19690703,0,1,1969-07-03,2.0,1.0,1.0,"El Salvador, Honduras",Government of El Salvador,Government of Honduras,Common Border,5,20.1
+202,307,307_20000917,0,1,2000-09-17,1.0,0.0,0.0,Guinea,Government of Guinea,RFDG,,4,20.1
+203,308,308_19700820,0,1,1970-08-20,1.0,0.0,0.0,Philippines,Government of Philippines,MIM,Mindanao,3,20.1
+204,308,308_19930209,0,1,1993-02-09,1.0,0.0,0.0,Philippines,Government of Philippines,"ASG, MNLF",Mindanao,3,20.1
+205,309,309_19710722,0,1,1971-07-22,1.0,0.0,0.0,Sudan,Government of Sudan,Sudanese Communist Party,,4,20.1
+206,309,309_19760702,0,1,1976-07-02,1.0,0.0,0.0,Sudan,Government of Sudan,National Front,,4,20.1
+207,309,309_19830517,0,1,1983-05-17,1.0,1.0,0.0,Sudan,Government of Sudan,SPLM/A,,4,20.1
+208,311,311_19710710,0,1,1971-07-10,1.0,0.0,0.0,Morocco,Government of Morocco,Military faction (forces of Mohamed Madbouh),,4,20.1
+209,312,312_19710326,0,1,1971-03-26,1.0,1.0,0.0,Pakistan,Government of Pakistan,Mukti Bahini,East Pakistan,3,20.1
+210,313,313_19710430,0,1,1971-04-30,2.0,1.0,0.0,Sri Lanka,Government of Sri Lanka,JVP,,3,20.1
+211,313,313_19890213,0,1,1989-02-13,1.0,0.0,0.0,Sri Lanka,Government of Sri Lanka,JVP,,3,20.1
+212,314,314_19710125,0,1,1971-01-25,1.0,0.0,0.0,Uganda,Government of Uganda,Military faction (forces of Idi Amin),,4,20.1
+213,314,314_19740323,0,1,1974-03-23,1.0,0.0,0.0,Uganda,Government of Uganda,Military faction (forces of Charles Arube),,4,20.1
+214,314,314_19790122,0,1,1979-01-22,2.0,0.0,1.0,Uganda,Government of Uganda,"Fronasa, Kikosi Maalum, UNLF",,4,20.1
+215,314,314_19940221,0,1,1994-02-21,1.0,0.0,0.0,Uganda,Government of Uganda,LRA,,4,20.1
+216,314,314_20130624,0,1,2013-06-24,1.0,0.0,1.0,Uganda,Government of Uganda,"ADF, LRA",,4,20.1
+217,315,315_19980815,0,1,1998-08-15,1.0,0.0,0.0,United Kingdom,Government of United Kingdom,RIRA,Northern Ireland,1,20.1
+218,316,316_19720325,0,1,1972-03-25,1.0,0.0,0.0,El Salvador,Government of El Salvador,Military faction (forces of Benjamin Mejia),,5,20.1
+219,316,316_19790914,0,1,1979-09-14,1.0,0.0,0.0,El Salvador,Government of El Salvador,"ERP, FPL",,5,20.1
+220,318,318_19670905,0,1,1967-09-05,1.0,0.0,0.0,Zimbabwe (Rhodesia),Government of Zimbabwe (Rhodesia),ZAPU,,4,20.1
+221,318,318_19730404,0,1,1973-04-04,1.0,0.0,0.0,Zimbabwe (Rhodesia),Government of Zimbabwe (Rhodesia),"ZANU, ZAPU",,4,20.1
+222,320,320_19720221,0,1,1972-02-21,1.0,0.0,1.0,"South Yemen, Yemen (North Yemen)",Government of South Yemen,Government of Yemen (North Yemen),Common border,2,20.1
+223,321,321_19730911,0,1,1973-09-11,1.0,0.0,0.0,Chile,Government of Chile,"Military faction (forces of Augusto Pinochet, Toribio Merino and Leigh Guzman)",,5,20.1
+224,323,323_19740620,0,1,1974-06-20,2.0,1.0,1.0,"Cyprus, Turkey",Government of Cyprus,Government of Turkey,Northern Cyprus,"1, 2",20.1
+225,324,324_19740210,0,1,1974-02-10,1.0,0.0,1.0,"Iran, Iraq",Government of Iran,Government of Iraq,Various,2,20.1
+226,324,324_19800923,0,1,1980-09-23,1.0,1.0,1.0,"Iran, Iraq",Government of Iran,Government of Iraq,Various,2,20.1
+227,325,325_20040801,0,1,2004-08-01,1.0,0.0,0.0,Pakistan,Government of Pakistan,BLA,Balochistan,3,20.1
+228,325,325_20060326,0,1,2006-03-26,1.0,0.0,0.0,Pakistan,Government of Pakistan,"Baloch Ittehad, BLA",Balochistan,3,20.1
+229,325,325_20110705,0,1,2011-07-05,1.0,0.0,0.0,Pakistan,Government of Pakistan,BLA,Balochistan,3,20.1
+230,325,325_20190511,0,1,2019-05-11,1.0,0.0,0.0,Pakistan,Government of Pakistan,BRAS,Balochistan,3,20.1
+231,326,326_20030717,0,1,2003-07-17,1.0,0.0,0.0,Eritrea,Government of Eritrea,EIJM - AS,,4,20.1
+232,327,327_19751111,0,1,1975-11-11,1.0,1.0,1.0,Angola,Government of Angola,"FNLA, UNITA",,4,20.1
+233,327,327_19980502,0,1,1998-05-02,1.0,1.0,0.0,Angola,Government of Angola,UNITA,,4,20.1
+234,329,329_19640111,0,1,1964-01-11,2.0,0.0,0.0,Ethiopia,Government of Ethiopia,Ogaden Liberation Front,Ogaden,4,20.1
+235,329,329_19931013,0,1,1993-10-13,1.0,0.0,0.0,Ethiopia,Government of Ethiopia,AIAI,Ogaden,4,20.1
+236,329,329_19960809,0,1,1996-08-09,2.0,0.0,0.0,Ethiopia,Government of Ethiopia,"AIAI, ONLF",Ogaden,4,20.1
+237,330,330_19751207,0,1,1975-12-07,1.0,1.0,0.0,Indonesia,Government of Indonesia,CNRT,East Timor,3,20.1
+238,330,330_19921215,0,1,1992-12-15,2.0,0.0,0.0,Indonesia,Government of Indonesia,CNRT,East Timor,3,20.1
+239,330,330_19970531,0,1,1997-05-31,1.0,0.0,0.0,Indonesia,Government of Indonesia,CNRT,East Timor,3,20.1
+240,331,331_19751104,0,1,1975-11-04,1.0,0.0,0.0,Morocco,Government of Morocco,POLISARIO,Sahrawi Arab Democratic Republic (Western Sahara),4,20.1
+241,332,332_20131012,0,1,2013-10-12,1.0,0.0,0.0,Mozambique,Government of Mozambique,Renamo,,4,20.1
+242,332,332_20160410,0,1,2016-04-10,1.0,0.0,0.0,Mozambique,Government of Mozambique,Renamo,,4,20.1
+243,332,332_20180710,0,1,2018-07-10,1.0,0.0,0.0,Mozambique,Government of Mozambique,Ansar al-Sunnah,,4,20.1
+244,333,333_19780427,0,1,1978-04-27,1.0,1.0,0.0,Afghanistan,Government of Afghanistan,PDPA,,3,20.1
+245,334,334_19740119,0,1,1974-01-19,1.0,0.0,1.0,"China, Vietnam (North Vietnam)",Government of China,Government of Vietnam (North Vietnam),Various,3,20.1
+246,335,335_19921012,0,1,1992-10-12,1.0,0.0,0.0,India,Government of India,ATTF,Tripura,3,20.1
+247,335,335_19970610,0,1,1997-06-10,1.0,0.0,0.0,India,Government of India,"ATTF, NLFT",Tripura,3,20.1
+248,335,335_19990926,0,1,1999-09-26,1.0,0.0,0.0,India,Government of India,NLFT,Tripura,3,20.1
+249,336,336_19771010,0,1,1977-10-10,1.0,0.0,0.0,Nicaragua,Government of Nicaragua,FSLN,,5,20.1
+250,336,336_19820417,0,1,1982-04-17,1.0,0.0,0.0,Nicaragua,Government of Nicaragua,Contras,,5,20.1
+251,337,337_19860303,0,1,1986-03-03,2.0,0.0,0.0,Somalia,Government of Somalia,SNM,,4,20.1
+252,337,337_20010512,0,1,2001-05-12,2.0,0.0,0.0,Somalia,Government of Somalia,SRRC,,4,20.1
+253,337,337_20061024,0,1,2006-10-24,1.0,0.0,1.0,Somalia,Government of Somalia,ARS/UIC,,4,20.1
+254,338,338_19930409,0,1,1993-04-09,1.0,0.0,0.0,Iran,Government of Iran,MEK,,2,20.1
+255,338,338_19970218,0,1,1997-02-18,1.0,0.0,0.0,Iran,Government of Iran,MEK,,2,20.1
+256,338,338_19991125,0,1,1999-11-25,1.0,0.0,0.0,Iran,Government of Iran,MEK,,2,20.1
+257,338,338_20050807,0,1,2005-08-07,1.0,0.0,0.0,Iran,Government of Iran,PJAK,,2,20.1
+258,338,338_20180720,0,1,2018-07-20,1.0,0.0,0.0,Iran,Government of Iran,PJAK,,2,20.1
+259,339,339_19790530,0,1,1979-05-30,1.0,0.0,0.0,Iran,Government of Iran,APCO,Arabistan,2,20.1
+260,340,340_19791120,0,1,1979-11-20,1.0,0.0,0.0,Saudi Arabia,Government of Saudi Arabia,JSM,,2,20.1
+261,341,341_19800412,0,1,1980-04-12,1.0,0.0,0.0,Liberia,Government of Liberia,Military faction (forces of Samuel Doe),,4,20.1
+262,341,341_19891226,0,1,1989-12-26,1.0,0.0,0.0,Liberia,Government of Liberia,NPFL,,4,20.1
+263,342,342_19781022,0,1,1978-10-22,1.0,0.0,0.0,Spain,Government of Spain,ETA,Basque,1,20.1
+264,342,342_19851223,0,1,1985-12-23,1.0,0.0,0.0,Spain,Government of Spain,ETA,Basque,1,20.1
+265,342,342_19910628,0,1,1991-06-28,1.0,0.0,0.0,Spain,Government of Spain,ETA,Basque,1,20.1
+266,343,343_19800127,0,1,1980-01-27,1.0,0.0,0.0,Tunisia,Government of Tunisia,Résistance Armée Tunisienne,,4,20.1
+267,344,344_19810730,0,1,1981-07-30,1.0,0.0,1.0,Gambia,Government of Gambia,NRC,,4,20.1
+268,345,345_19810807,0,1,1981-08-07,1.0,0.0,0.0,South Africa,Government of South Africa,ANC,,4,20.1
+269,345,345_19850626,0,1,1985-06-26,1.0,0.0,0.0,South Africa,Government of South Africa,ANC,,4,20.1
+270,346,346_19820502,0,1,1982-05-02,1.0,0.0,1.0,"Argentina, United Kingdom",Government of Argentina,Government of United Kingdom,Malvinas/Falkland Islands,"1, 5",20.1
+271,347,347_20030721,0,1,2003-07-21,1.0,0.0,0.0,India,Government of India,UNLF,Manipur,3,20.1
+272,348,348_19820801,0,1,1982-08-01,1.0,0.0,0.0,Kenya,Government of Kenya,Military faction (forces of Hezekiah Ochuka),,4,20.1
+273,349,349_19830418,0,1,1983-04-18,1.0,0.0,1.0,"Chad, Nigeria",Government of Chad,Government of Nigeria,Lake Chad,4,20.1
+274,350,350_19831025,0,1,1983-10-25,1.0,0.0,1.0,"Grenada, United States of America",Government of Grenada,Government of United States of America,,5,20.1
+275,352,352_19840901,0,1,1984-09-01,1.0,0.0,0.0,Sri Lanka,Government of Sri Lanka,"LTTE, TELO",Eelam,3,20.1
+276,352,352_20030614,0,1,2003-06-14,1.0,0.0,0.0,Sri Lanka,Government of Sri Lanka,LTTE,Eelam,3,20.1
+277,352,352_20051202,0,1,2005-12-02,1.0,0.0,0.0,Sri Lanka,Government of Sri Lanka,LTTE,Eelam,3,20.1
+278,353,353_19840406,0,1,1984-04-06,1.0,0.0,0.0,Cameroon,Government of Cameroon,Military faction (forces of Ibrahim Saleh),,4,20.1
+279,353,353_20150112,0,1,2015-01-12,1.0,0.0,1.0,Cameroon,Government of Cameroon,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,,4,20.1
+280,354,354_19840815,0,1,1984-08-15,1.0,0.0,0.0,Turkey,Government of Turkey,PKK,Kurdistan,2,20.1
+281,354,354_20150730,0,1,2015-07-30,1.0,0.0,0.0,Turkey,Government of Turkey,PKK,Kurdistan,2,20.1
+282,355,355_19851225,0,1,1985-12-25,1.0,0.0,1.0,"Burkina Faso, Mali",Government of Burkina Faso,Government of Mali,Agacher Strip,4,20.1
+283,357,357_19871012,0,1,1987-10-12,1.0,0.0,0.0,Suriname,Government of Suriname,SLA,,5,20.1
+284,358,358_19860923,0,1,1986-09-23,2.0,0.0,0.0,Togo,Government of Togo,MTD,,4,20.1
+285,359,359_19860113,0,1,1986-01-13,1.0,1.0,0.0,South Yemen,Government of South Yemen,YSP - AFI,,2,20.1
+286,360,360_19871015,0,1,1987-10-15,1.0,0.0,0.0,Burkina Faso,Government of Burkina Faso,Popular Front,,4,20.1
+287,360,360_20180522,0,1,2018-05-22,1.0,0.0,1.0,Burkina Faso,Government of Burkina Faso,JNIM,,4,20.1
+288,361,361_19870808,0,1,1987-08-08,1.0,1.0,1.0,"Chad, Libya",Government of Chad,Government of Libya,Aozou strip,4,20.1
+289,362,362_19891127,0,1,1989-11-27,2.0,0.0,0.0,Comoros,Government of Comoros,Presidential guard,,4,20.1
+290,364,364_19900212,0,1,1990-02-12,1.0,0.0,0.0,India,Government of India,Kashmir insurgents,Kashmir,3,20.1
+291,365,365_19901130,0,1,1990-11-30,2.0,0.0,0.0,India,Government of India,ULFA,Assam,3,20.1
+292,366,366_19900606,0,1,1990-06-06,1.0,0.0,0.0,Indonesia,Government of Indonesia,GAM,Aceh,3,20.1
+293,366,366_19990601,0,1,1999-06-01,1.0,0.0,0.0,Indonesia,Government of Indonesia,GAM,Aceh,3,20.1
+294,367,367_19891003,0,1,1989-10-03,1.0,0.0,0.0,Panama,Government of Panama,Military faction (forces of Moisés Giroldi),,5,20.1
+295,368,368_19891216,0,1,1989-12-16,1.0,0.0,1.0,"Panama, United States of America",Government of Panama,Government of United States of America,,5,20.1
+296,369,369_19900207,0,1,1990-02-07,1.0,0.0,0.0,Papua New Guinea,Government of Papua New Guinea,BRA,Bougainville,3,20.1
+297,369,369_19920802,0,1,1992-08-02,1.0,0.0,0.0,Papua New Guinea,Government of Papua New Guinea,BRA,Bougainville,3,20.1
+298,370,370_19891217,0,1,1989-12-17,2.0,0.0,0.0,Romania,Government of Romania,"Military faction (forces of Nicolae Ceausescu), NSF",,1,20.1
+299,371,371_19900802,0,1,1990-08-02,1.0,1.0,1.0,"Iraq, Kuwait",Government of Iraq,Government of Kuwait,Kuwait,2,20.1
+300,372,372_19900721,0,1,1990-07-21,2.0,0.0,0.0,Mali,Government of Mali,MPA,Azawad,4,20.1
+301,372,372_19941004,0,1,1994-10-04,1.0,0.0,0.0,Mali,Government of Mali,FIAA,Azawad,4,20.1
+302,372,372_20070831,0,1,2007-08-31,1.0,0.0,0.0,Mali,Government of Mali,ATNMC,Azawad,4,20.1
+303,372,372_20120124,0,1,2012-01-24,1.0,0.0,0.0,Mali,Government of Mali,CMA,Azawad,4,20.1
+304,372,372_20140517,0,1,2014-05-17,1.0,0.0,0.0,Mali,Government of Mali,CMA,Azawad,4,20.1
+305,373,373_19940516,0,1,1994-05-16,1.0,0.0,0.0,Niger,Government of Niger,CRA,Air and Azawad,4,20.1
+306,374,374_19901001,0,1,1990-10-01,1.0,1.0,1.0,Rwanda,Government of Rwanda,FPR,,4,20.1
+307,374,374_19960712,0,1,1996-07-12,1.0,0.0,0.0,Rwanda,Government of Rwanda,ALiR,,4,20.1
+308,374,374_20090216,0,1,2009-02-16,1.0,1.0,1.0,Rwanda,Government of Rwanda,FDLR,,4,20.1
+309,374,374_20160329,0,1,2016-03-29,2.0,0.0,1.0,Rwanda,Government of Rwanda,FDLR,,4,20.1
+310,374,374_20181215,0,1,2018-12-15,1.0,0.0,1.0,Rwanda,Government of Rwanda,FDLR,,4,20.1
+311,375,375_19900831,0,1,1990-08-31,2.0,0.0,0.0,Senegal,Government of Senegal,MFDC,Casamance,4,20.1
+312,375,375_19920901,0,1,1992-09-01,1.0,0.0,0.0,Senegal,Government of Senegal,MFDC,Casamance,4,20.1
+313,375,375_19950427,0,1,1995-04-27,1.0,0.0,0.0,Senegal,Government of Senegal,MFDC,Casamance,4,20.1
+314,375,375_19970318,0,1,1997-03-18,1.0,0.0,0.0,Senegal,Government of Senegal,MFDC,Casamance,4,20.1
+315,375,375_20000411,0,1,2000-04-11,1.0,0.0,0.0,Senegal,Government of Senegal,MFDC,Casamance,4,20.1
+316,375,375_20111220,0,1,2011-12-20,1.0,0.0,0.0,Senegal,Government of Senegal,MFDC,Casamance,4,20.1
+317,377,377_19900120,0,1,1990-01-20,2.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),APF,Azerbaijan,1,20.1
+318,378,378_19900727,0,1,1990-07-27,1.0,0.0,0.0,Trinidad and Tobago,Government of Trinidad and Tobago,Jamaat al-Muslimeen,,5,20.1
+319,379,379_19911112,0,1,1991-11-12,1.0,0.0,0.0,Djibouti,Government of Djibouti,FRUD,,4,20.1
+320,379,379_19990724,0,1,1999-07-24,1.0,0.0,0.0,Djibouti,Government of Djibouti,FRUD-C,,4,20.1
+321,380,380_19911222,0,1,1991-12-22,1.0,0.0,0.0,Georgia,Government of Georgia,National Guard and Mkhedrioni,,1,20.1
+322,381,381_19890403,0,1,1989-04-03,1.0,0.0,0.0,Haiti,Government of Haiti,Military faction (forces of Himmler Rebu and Guy Francois),,5,20.1
+323,381,381_19911002,0,1,1991-10-02,2.0,0.0,0.0,Haiti,Government of Haiti,Military faction (forces of Raol Cédras),,5,20.1
+324,381,381_20040208,0,1,2004-02-08,1.0,0.0,0.0,Haiti,Government of Haiti,"FLRN, OP Lavalas",,5,20.1
+325,382,382_19910323,0,1,1991-03-23,1.0,0.0,1.0,Sierra Leone,Government of Sierra Leone,RUF,,4,20.1
+326,383,383_19910713,0,1,1991-07-13,1.0,0.0,0.0,Turkey,Government of Turkey,DHKP-C,,2,20.1
+327,383,383_19950716,0,1,1995-07-16,1.0,0.0,0.0,Turkey,Government of Turkey,DHKP-C,,2,20.1
+328,383,383_20050617,0,1,2005-06-17,1.0,0.0,0.0,Turkey,Government of Turkey,MKP,,2,20.1
+329,383,383_20160217,0,1,2016-02-17,1.0,0.0,0.0,Turkey,Government of Turkey,"TAK, Yurtta Sulh Konseyi",,2,20.1
+330,384,384_19910627,0,1,1991-06-27,1.0,0.0,0.0,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),Republic of Slovenia,Slovenia,1,20.1
+331,385,385_19910727,0,1,1991-07-27,1.0,1.0,0.0,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),"Croatian irregulars, Republic of Croatia",Croatia,1,20.1
+332,386,386_19911209,0,1,1991-12-09,1.0,0.0,0.0,Algeria,Government of Algeria,Takfir wa'l Hijra,,4,20.1
+333,387,387_20021112,0,1,2002-11-12,1.0,0.0,0.0,Angola,Government of Angola,"FLEC-FAC, FLEC-R",Cabinda,4,20.1
+334,388,388_19911229,0,1,1991-12-29,1.0,0.0,1.0,Azerbaijan,Government of Azerbaijan,Republic of Artsakh,Artsakh (Nagorno-Karabakh),1,20.1
+335,388,388_19970420,0,1,1997-04-20,2.0,0.0,1.0,Azerbaijan,Government of Azerbaijan,Republic of Artsakh,Artsakh (Nagorno-Karabakh),1,20.1
+336,388,388_20051205,0,1,2005-12-05,1.0,0.0,1.0,Azerbaijan,Government of Azerbaijan,Republic of Artsakh,Artsakh (Nagorno-Karabakh),1,20.1
+337,388,388_20120925,0,1,2012-09-25,1.0,0.0,1.0,Azerbaijan,Government of Azerbaijan,Republic of Artsakh,Artsakh (Nagorno-Karabakh),1,20.1
+338,388,388_20140801,0,1,2014-08-01,2.0,0.0,1.0,Azerbaijan,Government of Azerbaijan,Republic of Artsakh,Artsakh (Nagorno-Karabakh),1,20.1
+339,389,389_19920427,0,1,1992-04-27,1.0,1.0,1.0,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,"Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",Serb,1,20.1
+340,390,390_19920517,0,1,1992-05-17,1.0,0.0,1.0,Croatia,Government of Croatia,"Serbian irregulars, Serbian Republic of Krajina",Serb,1,20.1
+341,390,390_19950501,0,1,1995-05-01,1.0,0.0,0.0,Croatia,Government of Croatia,Serbian Republic of Krajina,Serb,1,20.1
+342,391,391_19930310,0,1,1993-03-10,1.0,0.0,0.0,Egypt,Government of Egypt,al-Gama'a al-Islamiyya,,2,20.1
+343,391,391_20140424,0,1,2014-04-24,2.0,0.0,0.0,Egypt,Government of Egypt,Ansar Bayt al-Maqdis,,2,20.1
+344,391,391_20170714,0,1,2017-07-14,1.0,0.0,0.0,Egypt,Government of Egypt,"Harakit Sawa'id Misr, Jama'at Ansar al-Islam",,2,20.1
+345,392,392_19920814,0,1,1992-08-14,1.0,0.0,0.0,Georgia,Government of Georgia,Republic of Abkhazia,Abkhazia,1,20.1
+346,393,393_19920608,0,1,1992-06-08,1.0,0.0,0.0,Georgia,Government of Georgia,Republic of South Ossetia,South Ossetia,1,20.1
+347,393,393_20040819,0,1,2004-08-19,1.0,0.0,0.0,Georgia,Government of Georgia,Republic of South Ossetia,South Ossetia,1,20.1
+348,393,393_20080812,0,1,2008-08-12,2.0,0.0,1.0,Georgia,Government of Georgia,Republic of South Ossetia,South Ossetia,1,20.1
+349,394,394_19920317,0,1,1992-03-17,1.0,0.0,0.0,Moldova,Government of Moldova,PMR,Dniestr,1,20.1
+350,395,395_19920505,0,1,1992-05-05,1.0,1.0,0.0,Tajikistan,Government of Tajikistan,"PFT, UTO",,3,20.1
+351,395,395_20100909,0,1,2010-09-09,2.0,0.0,0.0,Tajikistan,Government of Tajikistan,"Forces of Mullo Abdullo, IMU",,3,20.1
+352,396,396_19930606,0,1,1993-06-06,1.0,0.0,0.0,Azerbaijan,Government of Azerbaijan,Military faction (forces of Suret Husseinov),,1,20.1
+353,396,396_19950317,0,1,1995-03-17,1.0,0.0,0.0,Azerbaijan,Government of Azerbaijan,OPON Forces,,1,20.1
+354,397,397_19931005,0,1,1993-10-05,1.0,0.0,0.0,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,Autonomous Province of Western Bosnia,Bihaca Krajina,1,20.1
+355,398,398_19930113,0,1,1993-01-13,1.0,1.0,1.0,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,"Croatian irregulars, Croatian Republic of Bosnia-Herzegovina",Croat,1,20.1
+356,399,399_19931003,0,1,1993-10-03,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Parliamentary Forces,,1,20.1
+357,400,400_19940101,0,1,1994-01-01,1.0,0.0,0.0,Mexico,Government of Mexico,EZLN,,5,20.1
+358,400,400_19960830,0,1,1996-08-30,2.0,0.0,0.0,Mexico,Government of Mexico,EPR,,5,20.1
+359,401,401_19941126,0,1,1994-11-26,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Chechen Republic of Ichkeria,Chechnya,1,20.1
+360,402,402_19940428,0,1,1994-04-28,2.0,1.0,0.0,Yemen (North Yemen),Government of Yemen (North Yemen),Democratic Republic of Yemen,South Yemen,2,20.1
+361,403,403_19950126,0,1,1995-01-26,1.0,0.0,1.0,"Ecuador, Peru",Government of Ecuador,Government of Peru,Cordillera del Condor,5,20.1
+362,404,404_19900211,0,1,1990-02-11,2.0,0.0,0.0,Pakistan,Government of Pakistan,MQM,,3,20.1
+363,404,404_19940503,0,1,1994-05-03,1.0,0.0,0.0,Pakistan,Government of Pakistan,MQM,,3,20.1
+364,404,404_20070715,0,1,2007-07-15,1.0,0.0,0.0,Pakistan,Government of Pakistan,TTP,,3,20.1
+365,406,406_19950710,0,1,1995-07-10,1.0,0.0,0.0,Niger,Government of Niger,FDR,Eastern Niger,4,20.1
+366,407,407_19970903,0,1,1997-09-03,1.0,0.0,0.0,Comoros,Government of Comoros,MPA/Republic of Anjouan,Anjouan,4,20.1
+367,408,408_19931103,0,1,1993-11-03,1.0,0.0,0.0,Congo,Government of Congo,Ninjas,,4,20.1
+368,408,408_19970606,0,1,1997-06-06,1.0,1.0,1.0,Congo,Government of Congo,"Cobras, Cocoyes",,4,20.1
+369,408,408_20020410,0,1,2002-04-10,1.0,0.0,1.0,Congo,Government of Congo,Ntsiloulous,,4,20.1
+370,408,408_20160405,0,1,2016-04-05,1.0,0.0,0.0,Congo,Government of Congo,Ntsiloulous,,4,20.1
+371,409,409_19980531,0,1,1998-05-31,2.0,1.0,1.0,"Eritrea, Ethiopia",Government of Eritrea,Government of Ethiopia,Common border,4,20.1
+372,409,409_20160613,0,1,2016-06-13,2.0,0.0,1.0,"Eritrea, Ethiopia",Government of Eritrea,Government of Ethiopia,Common border,4,20.1
+373,410,410_19980607,0,1,1998-06-07,1.0,0.0,1.0,Guinea-Bissau,Government of Guinea-Bissau,"Military Junta for the Consolidation of Democracy, Peace and Justice",,4,20.1
+374,411,411_19980922,0,1,1998-09-22,1.0,0.0,1.0,Lesotho,Government of Lesotho,Military faction (Lesotho),,4,20.1
+375,412,412_19980306,0,1,1998-03-06,2.0,1.0,0.0,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),UCK,Kosovo,1,20.1
+376,414,414_19990829,0,1,1999-08-29,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Wahhabi movement of the Buinaksk district,Dagestan,1,20.1
+377,415,415_19990330,0,1,1999-03-30,1.0,0.0,0.0,Uzbekistan,Government of Uzbekistan,IMU,,3,20.1
+378,415,415_20040330,0,1,2004-03-30,1.0,0.0,0.0,Uzbekistan,Government of Uzbekistan,JIG,,3,20.1
+379,416,416_20010527,0,1,2001-05-27,1.0,0.0,1.0,Central African Republic,Government of Central African Republic,Military faction (forces of André Kolingba),,4,20.1
+380,416,416_20061128,0,1,2006-11-28,2.0,0.0,1.0,Central African Republic,Government of Central African Republic,Seleka,,4,20.1
+381,416,416_20091126,0,1,2009-11-26,1.0,0.0,0.0,Central African Republic,Government of Central African Republic,CPJP,,4,20.1
+382,416,416_20180517,0,1,2018-05-17,2.0,0.0,0.0,Central African Republic,Government of Central African Republic,UPC (Ali Darass Fulani supporters),,4,20.1
+383,417,417_20010503,0,1,2001-05-03,1.0,0.0,0.0,North Macedonia,Government of North Macedonia,UCK,,1,20.1
+384,418,418_20010911,0,1,2001-09-11,1.0,1.0,1.0,United States of America,Government of United States of America,al-Qaida,,5,20.1
+385,418,418_20190731,0,1,2019-07-31,2.0,0.0,1.0,United States of America,Government of United States of America,al-Qaida,,5,20.1
+386,419,419_20020919,0,1,2002-09-19,1.0,0.0,0.0,Ivory Coast,Government of Ivory Coast,"MPCI, MPIGO",,4,20.1
+387,419,419_20110225,0,1,2011-02-25,1.0,0.0,0.0,Ivory Coast,Government of Ivory Coast,"FDSI-CI, FRCI",,4,20.1
+388,420,420_20030320,0,1,2003-03-20,1.0,1.0,1.0,"Australia, Iraq, United Kingdom, United States of America","Government of Australia, Government of United Kingdom, Government of United States of America",Government of Iraq,,"1, 2, 3, 5",20.1
+389,421,421_19940723,0,1,1994-07-23,2.0,0.0,0.0,India,Government of India,NDFB,Bodoland,3,20.1
+390,421,421_19961028,0,1,1996-10-28,1.0,0.0,0.0,India,Government of India,NDFB,Bodoland,3,20.1
+391,421,421_20010804,0,1,2001-08-04,1.0,0.0,0.0,India,Government of India,NDFB,Bodoland,3,20.1
+392,421,421_20090611,0,1,2009-06-11,1.0,0.0,0.0,India,Government of India,NDFB - RD,Bodoland,3,20.1
+393,421,421_20131211,0,1,2013-12-11,1.0,0.0,0.0,India,Government of India,NDFB-S,Bodoland,3,20.1
+394,423,423_20031027,0,1,2003-10-27,1.0,0.0,0.0,Thailand,Government of Thailand,Patani insurgents,Patani,3,20.1
+395,424,424_20040923,0,1,2004-09-23,1.0,0.0,0.0,Nigeria,Government of Nigeria,Ahlul Sunnah Jamaa,Northern Nigeria,4,20.1
+396,425,425_20040604,0,1,2004-06-04,1.0,0.0,0.0,Nigeria,Government of Nigeria,NDPVF,Niger Delta,4,20.1
+397,426,426_19900710,0,1,1990-07-10,1.0,0.0,0.0,Israel,Government of Israel,Hezbollah,Southern Lebanon,2,20.1
+398,426,426_20060713,0,1,2006-07-13,1.0,0.0,0.0,Israel,Government of Israel,Hezbollah,Southern Lebanon,2,20.1
+399,427,427_19781111,0,1,1978-11-11,2.0,0.0,1.0,"Tanzania, Uganda",Government of Tanzania,Government of Uganda,Kagera Salient,4,20.1
+400,428,428_19751210,0,1,1975-12-10,1.0,0.0,0.0,Mauritania,Government of Mauritania,POLISARIO,Sahrawi Arab Democratic Republic (Western Sahara),4,20.1
+401,429,429_20070201,0,1,2007-02-01,2.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),BDK,Kongo Kingdom,4,20.1
+402,429,429_20170807,0,1,2017-08-07,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),BDK,Kongo Kingdom,4,20.1
+403,430,430_19971019,0,1,1997-10-19,1.0,0.0,0.0,Niger,Government of Niger,UFRA,,4,20.1
+404,430,430_20070430,0,1,2007-04-30,1.0,0.0,0.0,Niger,Government of Niger,MNJ,,4,20.1
+405,431,431_19791227,0,1,1979-12-27,1.0,0.0,1.0,"Afghanistan, Russia (Soviet Union)",Government of Afghanistan,Government of Russia (Soviet Union),,"1, 3",20.1
+406,432,432_20071128,0,1,2007-11-28,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Forces of the Caucasus Emirate,Caucasus Emirate,1,20.1
+407,434,434_20081222,0,1,2008-12-22,1.0,0.0,0.0,India,Government of India,PULF,Islamic State,3,20.1
+408,435,435_20080610,0,1,2008-06-10,1.0,0.0,1.0,"Djibouti, Eritrea",Government of Djibouti,Government of Eritrea,Common border,4,20.1
+409,437,437_19810321,0,1,1981-03-21,2.0,1.0,0.0,Ethiopia,Government of Ethiopia,SLM,Sidamaland,4,20.1
+410,437,437_19830316,0,1,1983-03-16,1.0,0.0,0.0,Ethiopia,Government of Ethiopia,SLM,Sidamaland,4,20.1
+411,439,439_20090827,0,1,2009-08-27,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),MNDAA,Kokang,3,20.1
+412,439,439_20170306,0,1,2017-03-06,1.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),MNDAA,Kokang,3,20.1
+413,442,442_20100918,0,1,2010-09-18,2.0,0.0,1.0,Mauritania,Government of Mauritania,AQIM,,4,20.1
+414,11342,11342_19970529,1,1,1997-05-29,1.0,0.0,0.0,India,Government of India,GNLA,Garoland,3,20.1
+415,11344,11344_20110501,1,1,2011-05-01,1.0,0.0,0.0,Sudan,Government of Sudan,Republic of South Sudan,Abyei,4,20.1
+416,11349,11349_19900405,1,1,1990-04-05,1.0,0.0,0.0,China,Government of China,ETIM,East Turkestan,3,20.1
+417,11350,11350_19940424,1,1,1994-04-24,1.0,0.0,0.0,Bangladesh,Government of Bangladesh,"PBCP, PBCP-J",,3,20.1
+418,13042,13042_20110910,1,1,2011-09-10,2.0,0.0,0.0,Syria,Government of Syria,PYD,Rojava Kurdistan,2,20.1
+419,13219,13219_20140122,1,1,2014-01-22,1.0,0.0,0.0,Ukraine,Government of Ukraine,Maidan,,1,20.1
+420,13246,13246_20140412,1,1,2014-04-12,1.0,1.0,1.0,Ukraine,Government of Ukraine,DPR,Donetsk,1,20.1
+421,13247,13247_20140504,1,1,2014-05-04,1.0,0.0,1.0,Ukraine,Government of Ukraine,LPR,Lugansk,1,20.1
+422,13588,13588_20150321,1,1,2015-03-21,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),IS,Islamic State,1,20.1
+423,13604,13604_20130513,1,1,2013-05-13,1.0,1.0,0.0,Syria,Government of Syria,IS,Islamic State,2,20.1
+424,13611,13611_20150105,1,1,2015-01-05,1.0,0.0,0.0,Mali,Government of Mali,FLM,Macina Empire,4,20.1
+425,13637,13637_20150209,1,1,2015-02-09,1.0,0.0,1.0,Afghanistan,Government of Afghanistan,IS,Islamic State,3,20.1
+426,13638,13638_20150319,1,1,2015-03-19,1.0,0.0,1.0,Cameroon,Government of Cameroon,IS,Islamic State,4,20.1
+427,13646,13646_20150313,1,1,2015-03-13,1.0,0.0,0.0,Kenya,Government of Kenya,Al-Shabaab,Northeastern Province and Coast,4,20.1
+428,13648,13648_20141116,1,1,2014-11-16,1.0,0.0,0.0,Egypt,Government of Egypt,IS,Islamic State,2,20.1
+429,13653,13653_20150419,1,1,2015-04-19,1.0,0.0,0.0,India,Government of India,UNLFW,Western South East Asia,3,20.1
+430,13674,13674_20151104,1,1,2015-11-04,1.0,0.0,0.0,Bangladesh,Government of Bangladesh,IS,Islamic State,3,20.1
+431,13675,13675_20140625,1,1,2014-06-25,1.0,0.0,0.0,Lebanon,Government of Lebanon,IS,Islamic State,2,20.1
+432,13721,13721_20141010,1,1,2014-10-10,1.0,0.0,0.0,Algeria,Government of Algeria,IS,Islamic State,4,20.1
+433,13809,13809_20151206,1,1,2015-12-06,1.0,0.0,0.0,Syria,Government of Syria,SDF,Rojava Kurdistan,2,20.1
+434,13840,13840_20171023,1,1,2017-10-23,1.0,0.0,1.0,Burkina Faso,Government of Burkina Faso,IS,Islamic State,4,20.1
+435,13886,13886_20160302,1,1,2016-03-02,2.0,0.0,0.0,Jordan,Government of Jordan,IS,Islamic State,2,20.1
+436,13902,13902_20150723,1,1,2015-07-23,1.0,0.0,0.0,Turkey,Government of Turkey,IS,Islamic State,2,20.1
+437,13936,13936_20160212,1,1,2016-02-12,1.0,0.0,0.0,Pakistan,Government of Pakistan,IS,Islamic State,3,20.1
+438,14074,14074_20160718,1,1,2016-07-18,1.0,0.0,0.0,Somalia,Government of Somalia,Republic of Somaliland,Somaliland,4,20.1
+439,14113,14113_20170204,1,1,2017-02-04,1.0,0.0,1.0,Mali,Government of Mali,IS,Islamic State,4,20.1
+440,14129,14129_20170916,1,1,2017-09-16,1.0,0.0,0.0,Cameroon,Government of Cameroon,Ambazonia insurgents,Ambazonia,4,20.1
+441,14197,14197_20180208,1,1,2018-02-08,2.0,0.0,1.0,Somalia,Government of Somalia,IS,Islamic State,4,20.1
+442,14268,14268_20160815,1,1,2016-08-15,1.0,0.0,0.0,Iran,Government of Iran,IS,Islamic State,2,20.1
+443,14333,14333_20150318,1,1,2015-03-18,1.0,0.0,0.0,Tunisia,Government of Tunisia,IS,Islamic State,4,20.1
+444,14609,14609_20180210,1,1,2018-02-10,1.0,0.0,1.0,"Iran, Israel",Government of Iran,Government of Israel,,2,20.1
+445,14845,14845_20190604,1,1,2019-06-04,2.0,0.0,0.0,Mozambique,Government of Mozambique,IS,Islamic State,4,20.1
+446,204,204_19451013,1,1,1945-10-13,2.0,0.0,1.0,Indonesia,Government of Netherlands,Indonesian People's Army,Indonesia,3,20.1
+447,206,206_19451119,1,1,1945-11-19,1.0,0.0,1.0,Iran,Government of Iran,Republic of Azerbaijan,Azerbaijan,2,20.1
+448,220,220_19470307,1,1,1947-03-07,2.0,1.0,0.0,Paraguay,Government of Paraguay,"Opposition coalition (Febreristas, Liberals and Communists)",,5,20.1
+449,227,227_19480501,1,1,1948-05-01,1.0,1.0,0.0,India,Government of India,CPI,,3,20.1
+450,234,234_19480515,1,1,1948-05-15,1.0,0.0,0.0,Israel,Government of Israel,Palestinian insurgents,Palestine,2,20.1
+451,246,246_19541101,1,1,1954-11-01,1.0,0.0,1.0,Algeria,Government of France,FLN,Algeria,4,20.1
+452,251,251_19550720,1,1,1955-07-20,2.0,0.0,0.0,India,Government of India,NNC,Nagaland,3,20.1
+453,265,265_19611027,1,1,1961-10-27,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),State of Katanga,Katanga,4,20.1
+454,281,281_19621208,1,1,1962-12-08,1.0,0.0,1.0,"Indonesia, Malaysia",Government of Indonesia,Government of Malaysia,North Borneo,3,20.1
+455,283,283_19640103,1,1,1964-01-03,1.0,1.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),CNL,,4,20.1
+456,292,292_19630515,1,1,1963-05-15,1.0,0.0,0.0,Peru,Government of Peru,"ELN, MIR",,5,20.1
+457,294,294_19751215,1,1,1975-12-15,2.0,0.0,1.0,"Cambodia (Kampuchea), Thailand",Government of Cambodia (Kampuchea),Government of Thailand,Common Border,3,20.1
+458,298,298_19660826,1,1,1966-08-26,1.0,0.0,0.0,South Africa,Government of South Africa,SWAPO,Namibia,4,20.1
+459,307,307_20000901,1,1,2000-09-01,1.0,0.0,0.0,Guinea,Government of Guinea,RFDG,,4,20.1
+460,313,313_19710405,1,1,1971-04-05,1.0,1.0,0.0,Sri Lanka,Government of Sri Lanka,JVP,,3,20.1
+461,315,315_19700811,1,1,1970-08-11,1.0,0.0,0.0,United Kingdom,Government of United Kingdom,PIRA,Northern Ireland,1,20.1
+462,318,318_19660429,1,1,1966-04-29,1.0,0.0,0.0,Zimbabwe (Rhodesia),Government of Zimbabwe (Rhodesia),ZAPU,,4,20.1
+463,319,319_19700413,1,1,1970-04-13,1.0,0.0,0.0,Uruguay,Government of Uruguay,MLN/Tupamaros,,5,20.1
+464,324,324_19720411,1,1,1972-04-11,1.0,0.0,1.0,"Iran, Iraq",Government of Iran,Government of Iraq,Various,2,20.1
+465,325,325_19730518,1,1,1973-05-18,1.0,0.0,0.0,Pakistan,Government of Pakistan,BLF,Balochistan,3,20.1
+466,326,326_19931216,1,1,1993-12-16,1.0,0.0,0.0,Eritrea,Government of Eritrea,EIJM - AS,,4,20.1
+467,328,328_19750501,1,1,1975-05-01,1.0,0.0,1.0,"Cambodia (Kampuchea), Vietnam (North Vietnam)",Government of Cambodia (Kampuchea),Government of Vietnam (North Vietnam),Common Border,3,20.1
+468,331,331_19750901,1,1,1975-09-01,1.0,0.0,0.0,Morocco,Government of Morocco,POLISARIO,Sahrawi Arab Democratic Republic (Western Sahara),4,20.1
+469,333,333_19750702,1,1,1975-07-02,2.0,0.0,0.0,Afghanistan,Government of Afghanistan,PDPA,,3,20.1
+470,335,335_19790709,1,1,1979-07-09,1.0,0.0,0.0,India,Government of India,TNV,Tripura,3,20.1
+471,336,336_19741227,1,1,1974-12-27,2.0,0.0,0.0,Nicaragua,Government of Nicaragua,FSLN,,5,20.1
+472,337,337_19820118,1,1,1982-01-18,1.0,0.0,0.0,Somalia,Government of Somalia,SSDF,,4,20.1
+473,338,338_19720813,1,1,1972-08-13,1.0,0.0,0.0,Iran,Government of Iran,MEK,,2,20.1
+474,342,342_19680607,1,1,1968-06-07,1.0,0.0,0.0,Spain,Government of Spain,ETA,Basque,1,20.1
+475,345,345_19780201,1,1,1978-02-01,1.0,0.0,0.0,South Africa,Government of South Africa,ANC,,4,20.1
+476,346,346_19820402,1,1,1982-04-02,1.0,0.0,1.0,"Argentina, United Kingdom",Government of Argentina,Government of United Kingdom,Malvinas/Falkland Islands,"1, 5",20.1
+477,347,347_19790426,1,1,1979-04-26,1.0,0.0,0.0,India,Government of India,PLA,Manipur,3,20.1
+478,351,351_19810920,1,1,1981-09-20,1.0,0.0,0.0,India,Government of India,Sikh insurgents,Punjab/Khalistan,3,20.1
+479,352,352_19750727,1,1,1975-07-27,1.0,0.0,0.0,Sri Lanka,Government of Sri Lanka,"LTTE, TELO",Eelam,3,20.1
+480,354,354_19830501,1,1,1983-05-01,1.0,0.0,0.0,Turkey,Government of Turkey,PKK,Kurdistan,2,20.1
+481,356,356_19820616,1,1,1982-06-16,1.0,0.0,1.0,"Laos, Thailand",Government of Laos,Government of Thailand,Common Border,3,20.1
+482,357,357_19860821,1,1,1986-08-21,1.0,0.0,0.0,Suriname,Government of Suriname,SLA,,5,20.1
+483,364,364_19840206,1,1,1984-02-06,1.0,0.0,0.0,India,Government of India,Kashmir insurgents,Kashmir,3,20.1
+484,369,369_19890406,1,1,1989-04-06,1.0,0.0,0.0,Papua New Guinea,Government of Papua New Guinea,BRA,Bougainville,3,20.1
+485,372,372_19900628,1,1,1990-06-28,1.0,0.0,0.0,Mali,Government of Mali,MPA,Azawad,4,20.1
+486,373,373_19940119,1,1,1994-01-19,1.0,0.0,0.0,Niger,Government of Niger,CRA,Air and Azawad,4,20.1
+487,385,385_19910709,1,1,1991-07-09,1.0,1.0,0.0,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),"Croatian irregulars, Republic of Croatia",Croatia,1,20.1
+488,386,386_19850827,1,1,1985-08-27,1.0,0.0,0.0,Algeria,Government of Algeria,Takfir wa'l Hijra,,4,20.1
+489,387,387_19890804,1,1,1989-08-04,1.0,0.0,0.0,Angola,Government of Angola,FLEC-R,Cabinda,4,20.1
+490,390,390_19920429,1,1,1992-04-29,1.0,0.0,1.0,Croatia,Government of Croatia,"Serbian irregulars, Serbian Republic of Krajina",Serb,1,20.1
+491,391,391_19811008,1,1,1981-10-08,1.0,0.0,0.0,Egypt,Government of Egypt,al-Gama'a al-Islamiyya,,2,20.1
+492,393,393_19920512,1,1,1992-05-12,1.0,0.0,0.0,Georgia,Government of Georgia,Republic of South Ossetia,South Ossetia,1,20.1
+493,394,394_19920301,1,1,1992-03-01,1.0,0.0,0.0,Moldova,Government of Moldova,PMR,Dniestr,1,20.1
+494,396,396_19920515,1,1,1992-05-15,1.0,0.0,0.0,Azerbaijan,Government of Azerbaijan,Military faction (forces of Suret Husseinov),,1,20.1
+495,397,397_19930721,1,1,1993-07-21,1.0,0.0,0.0,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,Autonomous Province of Western Bosnia,Bihaca Krajina,1,20.1
+496,399,399_19910820,1,1,1991-08-20,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Parliamentary Forces,,1,20.1
+497,401,401_19940527,1,1,1994-05-27,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Chechen Republic of Ichkeria,Chechnya,1,20.1
+498,402,402_19940221,1,1,1994-02-21,1.0,1.0,0.0,Yemen (North Yemen),Government of Yemen (North Yemen),Democratic Republic of Yemen,South Yemen,2,20.1
+499,405,405_19940218,1,1,1994-02-18,1.0,0.0,1.0,"Cameroon, Nigeria",Government of Cameroon,Government of Nigeria,Bakassi,4,20.1
+500,406,406_19950323,1,1,1995-03-23,1.0,0.0,0.0,Niger,Government of Niger,FDR,Eastern Niger,4,20.1
+501,409,409_19980506,1,1,1998-05-06,1.0,1.0,1.0,"Eritrea, Ethiopia",Government of Eritrea,Government of Ethiopia,Common border,4,20.1
+502,411,411_19980903,1,1,1998-09-03,1.0,0.0,1.0,Lesotho,Government of Lesotho,Military faction (Lesotho),,4,20.1
+503,412,412_19960422,1,1,1996-04-22,1.0,0.0,0.0,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),UCK,Kosovo,1,20.1
+504,415,415_19990216,1,1,1999-02-16,1.0,0.0,0.0,Uzbekistan,Government of Uzbekistan,IMU,,3,20.1
+505,417,417_20000111,1,1,2000-01-11,1.0,0.0,0.0,North Macedonia,Government of North Macedonia,UCK,,1,20.1
+506,421,421_19890216,1,1,1989-02-16,1.0,0.0,0.0,India,Government of India,ABSU,Bodoland,3,20.1
+507,424,424_20031231,1,1,2003-12-31,1.0,0.0,0.0,Nigeria,Government of Nigeria,Ahlul Sunnah Jamaa,Northern Nigeria,4,20.1
+508,429,429_19980702,1,1,1998-07-02,1.0,0.0,0.0,DR Congo (Zaire),Government of DR Congo (Zaire),BDK,Kongo Kingdom,4,20.1
+509,430,430_19911025,1,1,1991-10-25,1.0,0.0,0.0,Niger,Government of Niger,FLAA,,4,20.1
+510,432,432_20071007,1,1,2007-10-07,1.0,0.0,0.0,Russia (Soviet Union),Government of Russia (Soviet Union),Forces of the Caucasus Emirate,Caucasus Emirate,1,20.1
+511,434,434_20000620,1,1,2000-06-20,1.0,0.0,0.0,India,Government of India,PULF,Islamic State,3,20.1
+512,440,440_19730111,1,1,1973-01-11,2.0,0.0,0.0,Myanmar (Burma),Government of Myanmar (Burma),LNUP,Lahu,3,20.1
+513,442,442_20080915,1,1,2008-09-15,1.0,0.0,1.0,Mauritania,Government of Mauritania,AQIM,,4,20.1
